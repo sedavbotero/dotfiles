@@ -42,3 +42,8 @@ vim.opt.undofile = true
 
 -- Preview substitutions live, as you type!
 vim.opt.inccommand = 'split'
+
+
+vim.opt.foldmethod="expr"
+vim.opt.foldexpr="nvim_treesitter#foldexpr()"
+vim.opt.foldenable=false
