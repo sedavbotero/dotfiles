@@ -19,3 +19,5 @@
 .config/htop
 .config/nvim/lazy-lock.json
 .config/spotify
+.config/gh
+.config/lazygit
