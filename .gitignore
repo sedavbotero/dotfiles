@@ -21,3 +21,10 @@
 .config/spotify
 .config/gh
 .config/lazygit
+.config/enchant
+.config/libreoffice/4
+.config/systemd/user
+.config/tmux/plugins
+.config/xed
+.config/xm1
+.config/cinnamon-monitors.xml~
