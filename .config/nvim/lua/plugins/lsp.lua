@@ -24,6 +24,7 @@ return {
                     -- 'bashls',
                     'marksman',
                     'texlab',
+                    'gopls'
                 },
                 handlers = {
                     function(server_name)

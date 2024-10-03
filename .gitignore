@@ -28,3 +28,11 @@
 .config/xed
 .config/xm1
 .config/cinnamon-monitors.xml~
+.config/go/telemetry/local
+.config/Thunar
+.config/dlv
+.config/touchegg
+.config/xfce4
+.config/cinnamon-monitors.xml
+.config/pavucontrol.ini
+.config/zathura
