@@ -13,3 +13,5 @@ vim.keymap.set("x", "<leader>p", "\"_dP")
 
 vim.keymap.set("n", "<leader>D", "\"_d")
 vim.keymap.set("v", "<leader>D", "\"_d")
+
+vim.keymap.set("n", "<leader>E", vim.diagnostic.open_float)
