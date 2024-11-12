@@ -161,4 +161,8 @@ case ":$PATH:" in
         ;;
 esac
 
+export PATH="/usr/local/MATLAB/R2024b/bin/:$PATH"
 # <<< juliaup initialize <<<
+source ~/.venv/bin/activate
+
+alias stud="cd ~/Documents/STUDIA/Semestr\ 3/"
