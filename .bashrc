@@ -166,3 +166,8 @@ export PATH="/usr/local/MATLAB/R2024b/bin/:$PATH"
 source ~/.venv/bin/activate
 
 alias stud="cd ~/Documents/STUDIA/Semestr\ 3/"
+
+
+if [[ $TERM_PROGRAM == "WezTerm" ]]; then
+    ~/dotfiles/tmux_scripts/init.sh
+fi

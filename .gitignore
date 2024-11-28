@@ -36,3 +36,16 @@
 .config/cinnamon-monitors.xml
 .config/pavucontrol.ini
 .config/zathura
+.config/Proton/VPN/app-config.json
+.config/autostart
+.config/curd
+.config/neofetch
+.config/nvim/lua/plugins/.swo
+.config/nvim/lua/plugins/.swp
+.config/nvim/lua/plugins/cmp.lua.bak
+.config/nvim/lua/plugins/CMP.lua.bak
+.config/nvim/1
+.config/xviewer
+.config/flameshot/flameshot.ini
+.config/gtk-2.0/gtkfilechooser.ini
+.config/QtProject.conf
